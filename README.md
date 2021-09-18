@@ -11,3 +11,7 @@ https://alpinejs.dev/
 
 All web dev docs in one place. Realtime search. https://devdocs.io/
 
+## PHP 
+
+PHP docs. Realtime search. https://devdocs.io/php/
+
