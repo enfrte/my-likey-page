@@ -7,3 +7,7 @@ https://date-fns.org/
 
 https://alpinejs.dev/
 
+## General web
+
+All web dev docs in one place. Realtime search. https://devdocs.io/
+
