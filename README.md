@@ -11,6 +11,10 @@ https://alpinejs.dev/
 
 All web dev docs in one place. Realtime search. https://devdocs.io/
 
+## VSCode 
+
+[REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) by Huachao Mao 
+
 ## PHP 
 
 PHP docs. Realtime search. https://devdocs.io/php/
