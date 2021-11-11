@@ -27,3 +27,15 @@ To organise my notes/thoughts/ideas I use Zim - A graphical text editor used to 
 
 paiza.IO is online editor and compiler where you can write and run code instantly. Whenever you come up with new idea, learn or teach programming, you and others can just write and run code. https://paiza.io/en
 
+## Testing
+
+PHPUnit https://phpunit.de/
+
+Selenium https://www.selenium.dev/
+
+## Languages/technologies I want to learn, or am learning
+
+V https://vlang.io/
+
+Dart https://dart.dev/
+
