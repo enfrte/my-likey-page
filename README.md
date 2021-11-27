@@ -39,3 +39,4 @@ V https://vlang.io/
 
 Dart https://dart.dev/
 
+Tailwind CSS https://tailwindcss.com/
