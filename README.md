@@ -1,4 +1,5 @@
 # my-likey-page
+
 Things I like to use for dev stuff
 
 ## Javascript
@@ -35,8 +36,10 @@ Selenium https://www.selenium.dev/
 
 ## Languages/technologies I want to learn, or am learning
 
-V https://vlang.io/
+V https://vlang.io/ (looks like fun)
 
-Dart https://dart.dev/
+Dart https://dart.dev/ (interesting for web and mobile with Flutter)
 
-Astro https://astro.build/
+Astro https://astro.build/ (interesting for static sites and as a container for other JS libries)
+
+Rust https://www.rust-lang.org/ (interesting for lowlevel code and/or embedded systems dev)
